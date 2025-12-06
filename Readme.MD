@@ -40,7 +40,7 @@ scikit-learn (similarity matrix)
 
 📦 Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/movie-recommender-system.git
+git clone https://github.com/Dhruvsingh72/movie-recommender-system.git
 cd movie-recommender-system
 
 2️⃣ Create virtual environment
